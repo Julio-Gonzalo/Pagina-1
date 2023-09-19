@@ -1,0 +1,121 @@
+/*****************************************************
+*                 Barra de navegación                *
+*****************************************************/
+
+nav {
+          float:right;
+          padding: 2%;
+}
+
+.Enlaces-Inicio{
+          text-decoration: none;
+          color: white;
+}
+
+header {
+          background-color: rgb(0,0,9);
+          padding: 25px;
+}
+
+.Logo {
+          width: 90px;
+          height: 90px;
+}
+
+/*****************************************************
+*                   Inicio                           *
+*****************************************************/
+
+.Inicio {
+          background-color: white;
+          background-image: url('https://images5.alphacoders.com/462/462280.jpg');
+          background-repeat: no-repeat;
+          background-position: center;
+          max-width: 100%;
+          height: 778px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}
+
+/*****************************************************
+*                   Conceptos                        *
+*****************************************************/
+
+.Concepto {
+          background-color: white;
+          background-image: url('https://img.freepik.com/fotos-premium/hojas-verdes-sobre-fondo-blanco_258743-428.jpg?w=2000');
+          background-repeat: no-repeat;
+          background-position: center;
+          height: 750px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+}
+
+.Cuadro {
+          background-color: rgb(35, 35, 35);
+          color: white;
+          padding: 5%;
+}
+
+.Zumo {
+          position: relative;
+          display: block;
+          width: 140px;
+          height: 185px;
+          top: -190px;
+          left: 355px;
+}
+
+.Lechuga {
+          position: relative;
+          display: block;
+          width: 150px;
+          height: 170px;
+          top: 155px;
+          left: -355px;
+}
+
+/*****************************************************
+*                     Fotos                          *
+*****************************************************/
+
+.Fotos {
+          background-color: white;
+          background-image: url('https://img.freepik.com/fotos-premium/ia-generativa-fondo-bar-playa-puesta-sol-verano-tropical-restaurante-al-aire-libre-luz-led_93150-10214.jpg?w=2000');
+          background-repeat: no-repeat;
+          background-position: center;
+          max-width: 100%;
+          height: 778px;
+          display: flex;
+          justify-content: center;
+}
+
+/*****************************************************
+*                   Menu                             *
+*****************************************************/
+
+.Menu , th , td {
+          text-align: left;
+          border: 1px solid black;
+          border-collapse: collapse;
+}
+
+.Menu-titulos {
+          text-align: center;
+}
+
+/*****************************************************
+*                   Blog                             *
+*****************************************************/
+
+.Fresa {
+          width: 250px;
+}
+
+/*****************************************************
+*                   Contactos                             *
+*****************************************************/
+
+
